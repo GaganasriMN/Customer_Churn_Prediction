@@ -1,10 +1,15 @@
-# Customer-Churn-Prediction-ML
-The objective is to build a classifier for prediction of customer churn.
+#Customer Churn Prediction
+##Overview
+This project aims to build a classifier to predict customer churn. Using a dataset from Kaggle with 10,000 samples.
+I performed a thorough analysis and visualization of the attributes to understand the data better. 
 
-This dataset was taken from Kaggle and has 10000 samples.
+The target variable for prediction is 'exited', indicating whether a customer has churned.
 
-By carefully observing the attributes,the appropriate visualization has been performed.
+###I employed several machine learning algorithms for this task, including:
 
-The target variable here is 'exited'.
+Support Vector Machine (SVM)
+Random Forest
+Decision Trees
+K-Nearest Neighbors (KNN)
 
-Used algorithms like Support Vector Machine , Random Forest , Decision Trees and K-nearest neighbors.
+Through this project, we aimed to find the most effective model for predicting customer churn.
